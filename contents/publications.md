@@ -2,7 +2,7 @@
 
 - Ao, L., <strong>Cheng, X.</strong>, An, D., An, Y.*, & Yuan, G. (2025). Relationship between Perceived Family Resilience, Emotional Flexibility, and Anxiety Symptoms: A Parent–adolescent Dyadic Perspective, <em>Journal of Youth and Adolescence</em>, <em>54</em>(2), 510–521. [[Paper]](https://doi.org/10.1007/s10964-024-02083-7)
 
-- 岳金明, <strong>程选<strong>, 安媛媛*, 冯丽. (2025). 流动群体家庭抗逆力特征的质性研究. <em>心理科学<em>, <em>48<em>(3), 533–543. [[Paper]](https://jps.ecnu.edu.cn/CN/10.16719/j.cnki.1671-6981.20250303)
+- 岳金明, <strong>程选</strong>, 安媛媛*, 冯丽. (2025). 流动群体家庭抗逆力特征的质性研究. <em>心理科学</em>, <em>48</em>(3), 533–543. [[Paper]](https://jps.ecnu.edu.cn/CN/10.16719/j.cnki.1671-6981.20250303)
 
 - 赵源鑫, 王青春*, <strong>程选</strong>, 吴伟. (2025). 负性生活事件与初中生心理困扰的关系：核心自我评价的中介与性别的调节作用. <em>校园心理</em>, <em>23</em>(1), 72–77. [[Paper]](https://doi.org/10.19521/j.cnki.1673-1662.2025.01.013)
 
