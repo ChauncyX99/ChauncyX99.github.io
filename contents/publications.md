@@ -1,3 +1,5 @@
+<em>Note: </em># = co-first author; * = corresponding author.
+
 #### 2025
 
 - Ao, L., <strong>Cheng, X.</strong>, An, D., An, Y.*, & Yuan, G. (2025). Relationship between Perceived Family Resilience, Emotional Flexibility, and Anxiety Symptoms: A Parent–adolescent Dyadic Perspective, <em>Journal of Youth and Adolescence</em>, <em>54</em>(2), 510–521. [[Paper]](https://doi.org/10.1007/s10964-024-02083-7)
@@ -16,7 +18,7 @@
 
 - Zheng, Z., An, Y., Lu, Y.*, <strong>Cheng, X.</strong>, & Yuan, G. (2024). Comparison of depressive symptoms of migrant and left-behind children in China: A network analysis perspective. <em>Current Psychology</em>, <em>43</em>(33), 27207–27215. [[Paper]](https://doi.org/10.1007/s12144-024-06324-7)
 
-- Zhao, Y., Yuan, G., Sun, X., <strong>Cheng, X.</strong>, Miao, J.*, & Lin, Z. (2024). A Multifaceted Intervention Designed for Chinese Migrant Families Involving Educational Philosophy, Parenting Style, and Parent-Child Relationships: A Pilot Study. <em>Child & Family Behavior Therapy</em>.  [[Paper]](https://doi.org/10.1080/07317107.2024.2433981)
+- Zhao, Y., Yuan, G., Sun, X., <strong>Cheng, X.</strong>, Miao, J.*, & Lin, Z. (2024). A Multifaceted Intervention Designed for Chinese Migrant Families Involving Educational Philosophy, Parenting Style, and Parent-Child Relationships: A Pilot Study. <em>Child & Family Behavior Therapy</em>, <em>47</em>(3), 241–260. [[Paper]](https://doi.org/10.1080/07317107.2024.2433981)
 
 #### 2023
 
