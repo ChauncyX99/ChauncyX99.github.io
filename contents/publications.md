@@ -1,5 +1,9 @@
 <em>Note: </em># = co-first author; * = corresponding author.
 
+#### 2026
+
+- <strong>Cheng, X.</strong>, Li, X., & An, Y.* (2026). Association Between Parent-Child Perceived Family Resilience and Mental health: A Dyadic Latent Profile Analysis. <em>Child and Adolescent Social Work Journal</em>. [[Paper]]https://doi.org/10.1007/s10560-026-01126-1
+
 #### 2025
 
 - Ao, L., <strong>Cheng, X.</strong>, An, D., An, Y.*, & Yuan, G. (2025). Relationship between Perceived Family Resilience, Emotional Flexibility, and Anxiety Symptoms: A Parent–adolescent Dyadic Perspective, <em>Journal of Youth and Adolescence</em>, <em>54</em>(2), 510–521. [[Paper]](https://doi.org/10.1007/s10964-024-02083-7)
