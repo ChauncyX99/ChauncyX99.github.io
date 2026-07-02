@@ -2,7 +2,7 @@
 
 #### 2026
 
-- <strong>Cheng, X.</strong>, Li, X., & An, Y.* (2026). Association Between Parent-Child Perceived Family Resilience and Mental health: A Dyadic Latent Profile Analysis. <em>Child and Adolescent Social Work Journal</em>. [[Paper]]https://doi.org/10.1007/s10560-026-01126-1
+- <strong>Cheng, X.</strong>, Li, X., & An, Y.* (2026). Association Between Parent-Child Perceived Family Resilience and Mental health: A Dyadic Latent Profile Analysis. <em>Child and Adolescent Social Work Journal</em>. [[Paper]](https://doi.org/10.1007/s10560-026-01126-1)
 
 #### 2025
 
