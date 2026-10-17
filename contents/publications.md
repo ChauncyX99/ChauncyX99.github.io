@@ -6,11 +6,11 @@
 
 - <strong>Cheng, X.</strong>, Wang, Z., Liao, J., Li, T., Da, L., & Lei, L.* (2026). Pathway from adverse interpersonal experiences to problematic mobile video gaming among vocational students: The mediating role of psychological inflexibility and gender differences. <em>Psychological Reports</em>. [[Paper]](https://doi.org/10.1177/00332941261488354)
 
-- Qiao, X., Yu, J., Liao, J., <strong>Cheng, X.</strong>, Li, T., & Lei, L.* (2026). How, when, and for whom does daily weight bias internalization undermine body image satisfaction? A daily diary study of perceived weight, exercise duration, and gender differences among adolescents. <em>Journal of Youth and Adolescence</em>. [[Paper]](https://doi.org/10.1007/s10964-026-02387-w)
+- Qiao, X., Yu, J., Liao, J., <strong>Cheng, X.</strong>, Li, T., & Lei, L.* (2026). How, when, and for whom does daily weight bias internalization undermine body image satisfaction? A daily diary study of perceived weight, exercise duration, and gender differences among adolescents. <em>Journal of Youth and Adolescence</em>, <em>55</em>(9), 2366–2380. [[Paper]](https://doi.org/10.1007/s10964-026-02387-w)
 
 - Qiao, X., Liao, J., <strong>Cheng, X.</strong>, Yu, J., Li, T., & Lei, L.* (2026). Joint victimization patterns and adolescents’ internet-related addictive behaviors: A longitudinal study of gender differences. <em>Addiction Research & Theory</em>. [[Paper]](https://doi.org/10.1080/16066359.2026.2703031)
 
-- <strong>Cheng, X.</strong>, Li, X., & An, Y.* (2026). Association Between Parent-Child Perceived Family Resilience and Mental health: A Dyadic Latent Profile Analysis. <em>Child and Adolescent Social Work Journal</em>. [[Paper]](https://doi.org/10.1007/s10560-026-01126-1)
+- <strong>Cheng, X.</strong>, Li, X., & An, Y.* (2026). Association Between Parent-Child Perceived Family Resilience and Mental health: A Dyadic Latent Profile Analysis. <em>Child and Adolescent Social Work Journal</em>, <em>43</em>(5), 1443–1455. [[Paper]](https://doi.org/10.1007/s10560-026-01126-1)
 
 #### 2025
 
