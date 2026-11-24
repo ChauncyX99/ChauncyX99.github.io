@@ -2,6 +2,8 @@
 
 #### 2026
 
+- Duan, Y., Sun, Y., Wang, J., Jin, Y., <strong>Cheng, X.</strong>, Ye, W., Liao, Y., Zhang, Z., Da, L., Li, W., Lei, C., Lin, J., Yue, W., & Chen, R.* (2026). Short-form video use and adolescent suicidality, nonsuicidal self-injury, and mental health. <em>JAMA Pediatrics</em>. [[Paper]](https://doi.org/10.1001/jamapediatrics.2026.5235)
+
 - <strong>Cheng, X.</strong>, Yuan, G., & An, Y.* (2026). Effects of parent-child perceived family resilience (in)consistency on respective anxiety symptoms and well-being: A dyadic response surface analysis. <em>Applied Research in Quality of Life</em>. [[Paper]](https://doi.org/10.1007/s11482-026-10673-9)
 
 - <strong>Cheng, X.</strong>, Wang, Z., Liao, J., Li, T., Da, L., & Lei, L.* (2026). Pathway from adverse interpersonal experiences to problematic mobile video gaming among vocational students: The mediating role of psychological inflexibility and gender differences. <em>Psychological Reports</em>. [[Paper]](https://doi.org/10.1177/00332941261488354)
