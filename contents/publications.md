@@ -2,6 +2,8 @@
 
 #### 2026
 
+- Li, T., Liao, J., Qiao, X., <strong>Cheng, X.</strong>, Yu, J., & Lei, L.* (2026). Who is most vulnerable to problematic dating app use? Evidence from insecure parent–child attachment profiles among chinese college students. <em>Current Psychology</em>, <em>45</em>(23), 1823. [[Paper]](https://doi.org/10.1007/s12144-026-10355-7)
+
 - Duan, Y., Sun, Y., Wang, J., Jin, Y., <strong>Cheng, X.</strong>, Ye, W., Liao, Y., Zhang, Z., Da, L., Li, W., Lei, C., Lin, J., Yue, W., & Chen, R.* (2026). Short-form video use and adolescent suicidality, nonsuicidal self-injury, and mental health. <em>JAMA Pediatrics</em>. [[Paper]](https://doi.org/10.1001/jamapediatrics.2026.5235)
 
 - <strong>Cheng, X.</strong>, Yuan, G., & An, Y.* (2026). Effects of parent-child perceived family resilience (in)consistency on respective anxiety symptoms and well-being: A dyadic response surface analysis. <em>Applied Research in Quality of Life</em>. [[Paper]](https://doi.org/10.1007/s11482-026-10673-9)
